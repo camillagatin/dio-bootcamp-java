@@ -1,0 +1,244 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Fabrica",
+            "request": "launch",
+            "mainClass": "poo.interfacee.estabelecimento.Fabrica",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Autodromo",
+            "request": "launch",
+            "mainClass": "poo.pilares_poo.abstracao.Autodromo",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Autodromo",
+            "request": "launch",
+            "mainClass": "poo.pilares_poo.heranca.Autodromo",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Autodromo",
+            "request": "launch",
+            "mainClass": "poo.pilares_poo.Autodromo",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "poo.enumm.SistemaIbge",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "SistemaIbge",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "SistemaCadastro",
+            "request": "launch",
+            "mainClass": "poo.construtores.SistemaCadastro",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Escola",
+            "request": "launch",
+            "mainClass": "poo.getters_e_setters.escola.Escola",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Estabelecimento",
+            "request": "launch",
+            "mainClass": "poo.lanchonete.Estabelecimento",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "estruturas_excepcionais.FormatadorCep",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "estruturas_excepcionais.ExemploExcecao",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "estruturas_excepcionais.AboutMe",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "n",
+            "request": "launch",
+            "mainClass": "n",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "estruturas_repeticao.DoWhile",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "estruturas_repeticao.While",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "estruturas_repeticao.BreakContinue",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "ForArray",
+            "request": "launch",
+            "mainClass": "estruturas_repeticao.ForArray",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "estruturas_repeticao.For",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "estruturas_condicionais.SwitchCase",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalEncadeada",
+            "request": "launch",
+            "mainClass": "estruturas_condicionais.CondicionalEncadeada",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalComposta",
+            "request": "launch",
+            "mainClass": "estruturas_condicionais.CondicionalComposta",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimples",
+            "request": "launch",
+            "mainClass": "estruturas_condicionais.CondicionalSimples",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "Argumentos.Scanner.AboutMe",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "Argumentos.AboutMe",
+            "projectName": "dio-bootcamp-java_c2b08ac0",
+            "args": [
+                "Camilla",
+                "Gatin",
+                "21",
+                "1.70"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "escopos.sistemasmarttv.Usuario",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Usuario(1)",
+            "request": "launch",
+            "mainClass": "metodos.sistemasmarttv.Usuario",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Aritmeticos",
+            "request": "launch",
+            "mainClass": "operadores.Aritmeticos",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Concatenacao",
+            "request": "launch",
+            "mainClass": "operadores.Concatenacao",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Relacionais",
+            "request": "launch",
+            "mainClass": "operadores.Relacionais",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Ternarios",
+            "request": "launch",
+            "mainClass": "operadores.Ternarios",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        },
+        {
+            "type": "java",
+            "name": "Unarios",
+            "request": "launch",
+            "mainClass": "operadores.Unarios",
+            "projectName": "dio-bootcamp-java_c2b08ac0"
+        }
+    ]
+}
